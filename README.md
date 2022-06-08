@@ -1,1 +1,1 @@
-Library Management System to keep track of book records.
+Library Management System using tkinter to keep track of book records.
